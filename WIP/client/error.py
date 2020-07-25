@@ -1,2 +1,0 @@
-class EmptyPositionError(Exception):
-    pass
